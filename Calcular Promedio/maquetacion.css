@@ -1,0 +1,17 @@
+*{
+margin:0;
+padding:0;
+}
+#contenedor {
+width:1000px;
+height:700px;
+background:#C1F1C0;
+margin:0.5em auto;
+padding:0.5em;
+}
+#encabezado {
+height:100%;
+background:#BC0306;
+border-radius:1em;
+margin:1em;
+}
